@@ -12,4 +12,5 @@
 
 ### [신입생 멘토링 사전 조사](https://forms.office.com/r/ZQeA7eqxg6)
 
-### [멘토링 과제 1 - 다음 문서를 작성해 오세요]()
+### [멘토링 과제 1 - 다음 문서를 작성해 오세요](https://github.com/dknife/2025_Mentoring/raw/main/Resource/2025_1_1_%EB%A9%98%ED%86%A0%EB%A7%81%20%EA%B3%BC%EC%A0%9C.hwpx)
+* [pdf 버전](https://github.com/dknife/2025_Mentoring/raw/main/Resource/2025_1_1_%EB%A9%98%ED%86%A0%EB%A7%81%20%EA%B3%BC%EC%A0%9C.pdf)
