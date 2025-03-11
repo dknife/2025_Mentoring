@@ -18,3 +18,9 @@
 
 ### [멘토링 과제 1 - 다음 문서를 작성해 오세요](https://github.com/dknife/2025_Mentoring/raw/main/Resource/2025_1_1_%EB%A9%98%ED%86%A0%EB%A7%81%20%EA%B3%BC%EC%A0%9C.hwpx)
 * [pdf 버전](https://github.com/dknife/2025_Mentoring/raw/main/Resource/2025_1_1_%EB%A9%98%ED%86%A0%EB%A7%81%20%EA%B3%BC%EC%A0%9C.pdf)
+
+### 동기유발 프로그램 안내
+* 2025.3.13 (목)
+  11:00 선배 특강 (See Play)
+  13:00 점심 - 교수 소개
+  14:00 학생회 주관 - 동아리 소개
